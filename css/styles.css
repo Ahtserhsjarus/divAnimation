@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  width: 700px;
+  margin: 5% auto;
+}
+.rectangle {
+  height: 300px;
+  width: 700px;
+  background-color: #555;
+  position: absolute;
+}
+
+#animation {
+  position: relative;
+  margin: 90px 0px;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
